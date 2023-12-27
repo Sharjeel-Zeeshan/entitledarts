@@ -1,0 +1,22 @@
+.recent{
+   display: flex;
+   justify-content: flex-start;
+   gap:100px;
+  
+}
+
+.sin{
+    color: #1262ae;
+    font-weight:bold ;
+    
+}
+.lax{
+    color: #1262ae;
+    font-weight:bold ;
+}
+
+.date{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 200px;
+}
